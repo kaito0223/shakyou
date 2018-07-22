@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+python_and_keras_collet_practice/jena_climate/jena_climate_2009_2016.csv
